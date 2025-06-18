@@ -1,0 +1,3 @@
+git add render.yaml
+git commit -m "Agregar configuración render.yaml para auto deploy"
+git push origin main
